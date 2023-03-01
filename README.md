@@ -8,4 +8,4 @@ This project is a web application for ordering food online. It is built using HT
 - Browse and select your favorite meals 
 - Place orders
 - See your orders
-- Rate and review restaurants and meals 
+
